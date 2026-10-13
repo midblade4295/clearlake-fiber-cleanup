@@ -1,0 +1,20 @@
+← Master Layout,,,Device:,CLK-L51,,,F1 Footage:
+,,,Location:,,,,F2 Footage:
+,,,Map #:,,,,F3 Footage:
+
+,,,FIBER ROUTING
+
+,6CT
+,Fiber Color,Assignment / Notes
+,Blue/Blue,
+,Blue/Orange,Input | ch.20-39
+,Blue/Green,Common
+,Blue/Brown,Ch.21 - Orange
+,Blue/Slate,
+,Blue/White,UPG
+
+,Notes:
+,Ch.20 - blue referenced (linked to Blue/Orange or Common path)
+,Blue/Green marked as Common
+,Channel range ch.20-39 noted
+,UPG = Upgrade (Blue/White)
